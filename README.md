@@ -1,17 +1,22 @@
 # Memify | Memory Manipulation
 
-Simple (Shitty) Memory Class ✔
+~~Simple (Shitty) Memory Class ✔~~
+
+Simple (Hiper Duper Kernel mode Memmory Class) Memory Class ✔
 
 Fully Pastable 🖨
 
 Comes with some utility 🛠
 
 ## Requirements
+
 C++20
 Multibyte support
 
 ## Usage
-Simply include memify/memify.h into your process.
+
+Simply include memify/memify.h into your process and add the sycall.cpp to your compile list.
+
 ```cpp
 #include "mem/memify.h"
 ```
